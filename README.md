@@ -1,3 +1,5 @@
-# Calling Public weather API
+# Public weather API
 
-> API: [OpenWeather](https://openweathermap.org/)
+> API source: [OpenWeather](https://openweathermap.org/)
+
+1. This is a practice on Node.js part in the Treehouse tech-degree
